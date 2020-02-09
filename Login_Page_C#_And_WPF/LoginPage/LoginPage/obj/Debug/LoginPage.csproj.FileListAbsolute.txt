@@ -1,0 +1,17 @@
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.csprojAssemblyReference.cache
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\Login.baml
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\MainWindow.baml
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\Welcome.baml
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\Login.g.cs
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\MainWindow.g.cs
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\Welcome.g.cs
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\App.g.cs
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage_MarkupCompile.cache
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.g.resources
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.cache
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+C:\Users\Praveen Ramesh\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
